@@ -15,3 +15,4 @@
 14. It must be in that file
 15. Count that word
 17. I hate bins
+18. Letters only please 
