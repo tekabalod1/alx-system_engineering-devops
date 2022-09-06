@@ -18,3 +18,4 @@
 18. Letters only please 
 20. Without C, you would live in hiago
 21. esreveR
+22. DJ Cut Killer
